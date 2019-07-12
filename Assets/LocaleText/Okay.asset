@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af65ee6b0f35f974dba93979a07edbce, type: 3}
+  m_Name: Okay
+  m_EditorClassIdentifier: 
+  m_LocaleItems:
+  - m_Language: 10
+    m_Value: Okay
+  - m_Language: 37
+    m_Value: Tamam
+  - m_Language: 1
+    m_Value: "\u062D\u0633\u0646\u0627"
+  - m_Language: 15
+    m_Value: okay
+  - m_Language: 40
+    m_Value: "\u597D\u7684"
+  - m_Language: 30
+    m_Value: "\u0425\u043E\u0440\u043E\u0448\u043E"
+  - m_Language: 34
+    m_Value: Bueno
+  - m_Language: 14
+    m_Value: d'accord
+  - m_Language: 28
+    m_Value: OK

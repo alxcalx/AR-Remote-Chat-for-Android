@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af65ee6b0f35f974dba93979a07edbce, type: 3}
+  m_Name: Locale_Text_Alpha
+  m_EditorClassIdentifier: 
+  m_LocaleItems:
+  - m_Language: 10
+    m_Value: Alpha Release
+  - m_Language: 37
+    m_Value: Alfa salimi
+  - m_Language: 1
+    m_Value: "\u0627\u0644\u0627\u0641\u0631\u0627\u062C \u0639\u0646 \u0623\u0644\u0641\u0627"
+  - m_Language: 15
+    m_Value: Alpha-Freigabe
+  - m_Language: 40
+    m_Value: "Alpha\u53D1\u5E03"
+  - m_Language: 30
+    m_Value: "Alpha\u53D1\u5E03"
+  - m_Language: 34
+    m_Value: Lanzamiento alfa
+  - m_Language: 14
+    m_Value: "Lib\xE9ration alpha"
+  - m_Language: 28
+    m_Value: "Libera\xE7\xE3o alfa"

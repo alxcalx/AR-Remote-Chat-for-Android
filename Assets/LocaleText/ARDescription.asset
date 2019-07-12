@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af65ee6b0f35f974dba93979a07edbce, type: 3}
+  m_Name: ARDescription
+  m_EditorClassIdentifier: 
+  m_LocaleItems:
+  - m_Language: 10
+    m_Value: AR aka "Augmented Reality" is the visual overlay of a 3D object in the
+      physical world.
+  - m_Language: 37
+    m_Value: "AR aka \"Art\u0131r\u0131lm\u0131\u015F Ger\xE7eklik\", fiziksel d\xFCnyadaki
+      bir 3D nesnesinin g\xF6rsel yerle\u015Fimidir."
+  - m_Language: 1
+    m_Value: "AR aka \"\u0627\u0644\u0648\u0627\u0642\u0639 \u0627\u0644\u0645\u0639\u0632\u0632\"
+      \u0647\u0648 \u0627\u0644\u062A\u0631\u0627\u0643\u0628 \u0627\u0644\u0645\u0631\u0626\u064A
+      \u0644\u0643\u0627\u0626\u0646 \u062B\u0644\u0627\u062B\u064A \u0627\u0644\u0623\u0628\u0639\u0627\u062F
+      \u0641\u064A \u0627\u0644\u0639\u0627\u0644\u0645 \u0627\u0644\u0641\u0639\u0644\u064A."
+  - m_Language: 15
+    m_Value: "AR aka \"Augmented Reality\" ist die visuelle \xDCberlagerung eines
+      3D-Objekts in der physikalischen Welt."
+  - m_Language: 40
+    m_Value: "AR\u53C8\u540D\u201C\u589E\u5F3A\u73B0\u5B9E\u201D\u662F\u7269\u7406\u4E16\u754C\u4E2D3D\u7269\u4F53\u7684\u89C6\u89C9\u53E0\u52A0\u3002"
+  - m_Language: 30
+    m_Value: "AR aka \xAB\u0414\u043E\u043F\u043E\u043B\u043D\u0435\u043D\u043D\u0430\u044F
+      \u0440\u0435\u0430\u043B\u044C\u043D\u043E\u0441\u0442\u044C\xBB - \u044D\u0442\u043E
+      \u0432\u0438\u0437\u0443\u0430\u043B\u044C\u043D\u043E\u0435 \u043D\u0430\u043B\u043E\u0436\u0435\u043D\u0438\u0435
+      \u0442\u0440\u0435\u0445\u043C\u0435\u0440\u043D\u043E\u0433\u043E \u043E\u0431\u044A\u0435\u043A\u0442\u0430
+      \u0432 \u0444\u0438\u0437\u0438\u0447\u0435\u0441\u043A\u043E\u043C \u043C\u0438\u0440\u0435."
+  - m_Language: 34
+    m_Value: "AR tambi\xE9n conocido como \"Realidad aumentada\" es la superposici\xF3n
+      visual de un objeto 3D en el mundo f\xEDsico."
+  - m_Language: 14
+    m_Value: AR aka "Augmented Reality" est la superposition visuelle d'un objet 3D
+      dans le monde physique.
+  - m_Language: 28
+    m_Value: "AR aka \"Augmented Reality\" \xE9 a sobreposi\xE7\xE3o visual de um
+      objeto 3D no mundo f\xEDsico."

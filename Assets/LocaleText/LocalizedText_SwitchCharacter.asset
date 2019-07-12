@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af65ee6b0f35f974dba93979a07edbce, type: 3}
+  m_Name: LocalizedText_SwitchCharacter
+  m_EditorClassIdentifier: 
+  m_LocaleItems:
+  - m_Language: 10
+    m_Value: Switch Character
+  - m_Language: 37
+    m_Value: "Karakter de\u011Fi\u015Ftir"
+  - m_Language: 1
+    m_Value: "\u0634\u062E\u0635\u064A\u0629 \u0627\u0644\u062A\u0628\u062F\u064A\u0644"
+  - m_Language: 15
+    m_Value: "Charakter \xE4ndern"
+  - m_Language: 40
+    m_Value: "\u5207\u6362\u5B57\u7B26"
+  - m_Language: 30
+    m_Value: "\u041F\u0435\u0440\u0435\u043A\u043B\u044E\u0447\u0438\u0442\u044C \u0441\u0438\u043C\u0432\u043E\u043B"
+  - m_Language: 34
+    m_Value: Cambiar personaje
+  - m_Language: 14
+    m_Value: Changer de personnage
+  - m_Language: 28
+    m_Value: Trocar personagem

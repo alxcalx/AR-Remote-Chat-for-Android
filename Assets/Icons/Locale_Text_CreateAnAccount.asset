@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af65ee6b0f35f974dba93979a07edbce, type: 3}
+  m_Name: Locale_Text_CreateAnAccount
+  m_EditorClassIdentifier: 
+  m_LocaleItems:
+  - m_Language: 10
+    m_Value: Create an Account
+  - m_Language: 37
+    m_Value: "Hesap olu\u015Ftur"
+  - m_Language: 1
+    m_Value: "\u0627\u0646\u0634\u0626 \u062D\u0633\u0627\u0628"
+  - m_Language: 15
+    m_Value: Ein Konto erstellen
+  - m_Language: 40
+    m_Value: "\u521B\u5EFA\u4E00\u4E2A\u5E10\u6237"
+  - m_Language: 30
+    m_Value: "\u0417\u0430\u0432\u0435\u0441\u0442\u0438 \u0430\u043A\u043A\u0430\u0443\u043D\u0442"
+  - m_Language: 34
+    m_Value: Crea una cuenta
+  - m_Language: 14
+    m_Value: "Cr\xE9er un compte"
+  - m_Language: 28
+    m_Value: Crie a sua conta aqui

@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: af65ee6b0f35f974dba93979a07edbce, type: 3}
+  m_Name: WaitText
+  m_EditorClassIdentifier: 
+  m_LocaleItems:
+  - m_Language: 10
+    m_Value: "Waiting......\r\n\r\nYou will receive a notification from another user.\r\nTap
+      on the notification to enter the session. "
+  - m_Language: 37
+    m_Value: "Bekleme ......\r\n\r\nBa\u015Fka bir kullan\u0131c\u0131dan bir bildirim
+      alacaks\u0131n\u0131z.\r\nOturuma girmek i\xE7in bildirime dokunun."
+  - m_Language: 1
+    m_Value: "\u0627\u0646\u062A\u0638\u0627\u0631......\r\n\r\n\u0633\u0648\u0641
+      \u062A\u062A\u0644\u0642\u0649 \u0625\u062E\u0637\u0627\u0631\u0627 \u0645\u0646
+      \u0645\u0633\u062A\u062E\u062F\u0645 \u0622\u062E\u0631.\r\n\u0627\u0636\u063A\u0637
+      \u0639\u0644\u0649 \u0627\u0644\u0625\u062E\u0637\u0627\u0631 \u0644\u0644\u062F\u062E\u0648\u0644
+      \u0625\u0644\u0649 \u0627\u0644\u062C\u0644\u0633\u0629."
+  - m_Language: 15
+    m_Value: "Warten......\r\n\r\nSie erhalten eine Benachrichtigung von einem anderen
+      Benutzer.\r\nTippen Sie auf die Benachrichtigung, um die Sitzung zu \xF6ffnen."
+  - m_Language: 40
+    m_Value: "\u7B49\u5019......\r\n\r\n\u60A8\u5C06\u6536\u5230\u5176\u4ED6\u7528\u6237\u7684\u901A\u77E5\u3002\r\n\u70B9\u51FB\u901A\u77E5\u8FDB\u5165\u4F1A\u8BDD\u3002"
+  - m_Language: 30
+    m_Value: "\u041E\u0436\u0438\u0434\u0430\u043D\u0438\u0435 ......\r\n\r\n\u0412\u044B
+      \u043F\u043E\u043B\u0443\u0447\u0438\u0442\u0435 \u0443\u0432\u0435\u0434\u043E\u043C\u043B\u0435\u043D\u0438\u0435
+      \u043E\u0442 \u0434\u0440\u0443\u0433\u043E\u0433\u043E \u043F\u043E\u043B\u044C\u0437\u043E\u0432\u0430\u0442\u0435\u043B\u044F.\r\n\u041D\u0430\u0436\u043C\u0438\u0442\u0435
+      \u043D\u0430 \u0443\u0432\u0435\u0434\u043E\u043C\u043B\u0435\u043D\u0438\u0435,
+      \u0447\u0442\u043E\u0431\u044B \u0432\u043E\u0439\u0442\u0438 \u0432 \u0441\u0435\u0430\u043D\u0441."
+  - m_Language: 34
+    m_Value: "Esperando......\r\n\r\nRecibir\xE1s una notificaci\xF3n de otro usuario.\r\nToque
+      en la notificaci\xF3n para entrar en la sesi\xF3n."
+  - m_Language: 14
+    m_Value: "Attendre......\r\n\r\nVous recevrez une notification d'un autre utilisateur.\r\nTapez
+      sur la notification pour entrer dans la session."
+  - m_Language: 28
+    m_Value: "Esperando......\r\n\r\nVoc\xEA receber\xE1 uma notifica\xE7\xE3o de
+      outro usu\xE1rio.\r\nToque na notifica\xE7\xE3o para entrar na sess\xE3o."

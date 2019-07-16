@@ -7,6 +7,6 @@ Still needs a little work. Feel free to modify it.
 Firbase Account needed. 
 
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/vt5fpE0bzSY)
+[![Watch the video]](https://youtu.be/8lZCs2y3jDo)
 
 
